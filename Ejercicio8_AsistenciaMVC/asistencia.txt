@@ -1,0 +1,5 @@
+victor erwin ,13/04/26,Asistió
+Rafa ,14/04/26,No asistió
+Erick Alejandro ,14/04/26,No asistió
+Angel David ,14/04/26,Asistió
+Diego ,14/04/26,No asistió
